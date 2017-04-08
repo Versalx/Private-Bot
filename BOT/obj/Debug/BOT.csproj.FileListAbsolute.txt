@@ -1,0 +1,57 @@
+c:\users\versal\documents\visual studio 2017\Projects\BOT\BOT\obj\Debug\BOT.csprojResolveAssemblyReference.cache
+c:\users\versal\documents\visual studio 2017\Projects\BOT\BOT\bin\Debug\BOT.exe.config
+c:\users\versal\documents\visual studio 2017\Projects\BOT\BOT\bin\Debug\BOT.exe
+c:\users\versal\documents\visual studio 2017\Projects\BOT\BOT\bin\Debug\BOT.pdb
+c:\users\versal\documents\visual studio 2017\Projects\BOT\BOT\bin\Debug\Discord.Net.Commands.dll
+c:\users\versal\documents\visual studio 2017\Projects\BOT\BOT\bin\Debug\Discord.Net.dll
+c:\users\versal\documents\visual studio 2017\Projects\BOT\BOT\bin\Debug\Newtonsoft.Json.dll
+c:\users\versal\documents\visual studio 2017\Projects\BOT\BOT\bin\Debug\Nito.AsyncEx.Concurrent.dll
+c:\users\versal\documents\visual studio 2017\Projects\BOT\BOT\bin\Debug\Nito.AsyncEx.dll
+c:\users\versal\documents\visual studio 2017\Projects\BOT\BOT\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+c:\users\versal\documents\visual studio 2017\Projects\BOT\BOT\bin\Debug\RestSharp.dll
+c:\users\versal\documents\visual studio 2017\Projects\BOT\BOT\bin\Debug\WebSocket4Net.dll
+c:\users\versal\documents\visual studio 2017\Projects\BOT\BOT\bin\Debug\Newtonsoft.Json.xml
+c:\users\versal\documents\visual studio 2017\Projects\BOT\BOT\bin\Debug\Nito.AsyncEx.xml
+c:\users\versal\documents\visual studio 2017\Projects\BOT\BOT\bin\Debug\Nito.AsyncEx.Concurrent.xml
+c:\users\versal\documents\visual studio 2017\Projects\BOT\BOT\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+c:\users\versal\documents\visual studio 2017\Projects\BOT\BOT\bin\Debug\RestSharp.xml
+c:\users\versal\documents\visual studio 2017\Projects\BOT\BOT\obj\Debug\BOT.exe
+c:\users\versal\documents\visual studio 2017\Projects\BOT\BOT\obj\Debug\BOT.pdb
+C:\Users\Versal\Desktop\bot v2\BOT\BOT\bin\Debug\BOT.exe.config
+C:\Users\Versal\Desktop\bot v2\BOT\BOT\bin\Debug\BOT.exe
+C:\Users\Versal\Desktop\bot v2\BOT\BOT\bin\Debug\BOT.pdb
+C:\Users\Versal\Desktop\bot v2\BOT\BOT\bin\Debug\Discord.Net.Commands.dll
+C:\Users\Versal\Desktop\bot v2\BOT\BOT\bin\Debug\Discord.Net.dll
+C:\Users\Versal\Desktop\bot v2\BOT\BOT\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Versal\Desktop\bot v2\BOT\BOT\bin\Debug\Nito.AsyncEx.Concurrent.dll
+C:\Users\Versal\Desktop\bot v2\BOT\BOT\bin\Debug\Nito.AsyncEx.dll
+C:\Users\Versal\Desktop\bot v2\BOT\BOT\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+C:\Users\Versal\Desktop\bot v2\BOT\BOT\bin\Debug\RestSharp.dll
+C:\Users\Versal\Desktop\bot v2\BOT\BOT\bin\Debug\WebSocket4Net.dll
+C:\Users\Versal\Desktop\bot v2\BOT\BOT\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Versal\Desktop\bot v2\BOT\BOT\bin\Debug\Nito.AsyncEx.xml
+C:\Users\Versal\Desktop\bot v2\BOT\BOT\bin\Debug\Nito.AsyncEx.Concurrent.xml
+C:\Users\Versal\Desktop\bot v2\BOT\BOT\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+C:\Users\Versal\Desktop\bot v2\BOT\BOT\bin\Debug\RestSharp.xml
+C:\Users\Versal\Desktop\bot v2\BOT\BOT\obj\Debug\BOT.csprojResolveAssemblyReference.cache
+C:\Users\Versal\Desktop\bot v2\BOT\BOT\obj\Debug\BOT.exe
+C:\Users\Versal\Desktop\bot v2\BOT\BOT\obj\Debug\BOT.pdb
+C:\Users\Versal\Desktop\BOT-master\BOT\bin\Debug\BOT.exe.config
+C:\Users\Versal\Desktop\BOT-master\BOT\bin\Debug\BOT.exe
+C:\Users\Versal\Desktop\BOT-master\BOT\bin\Debug\BOT.pdb
+C:\Users\Versal\Desktop\BOT-master\BOT\bin\Debug\Discord.Net.Commands.dll
+C:\Users\Versal\Desktop\BOT-master\BOT\bin\Debug\Discord.Net.dll
+C:\Users\Versal\Desktop\BOT-master\BOT\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Versal\Desktop\BOT-master\BOT\bin\Debug\Nito.AsyncEx.Concurrent.dll
+C:\Users\Versal\Desktop\BOT-master\BOT\bin\Debug\Nito.AsyncEx.dll
+C:\Users\Versal\Desktop\BOT-master\BOT\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+C:\Users\Versal\Desktop\BOT-master\BOT\bin\Debug\RestSharp.dll
+C:\Users\Versal\Desktop\BOT-master\BOT\bin\Debug\WebSocket4Net.dll
+C:\Users\Versal\Desktop\BOT-master\BOT\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Versal\Desktop\BOT-master\BOT\bin\Debug\Nito.AsyncEx.xml
+C:\Users\Versal\Desktop\BOT-master\BOT\bin\Debug\Nito.AsyncEx.Concurrent.xml
+C:\Users\Versal\Desktop\BOT-master\BOT\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+C:\Users\Versal\Desktop\BOT-master\BOT\bin\Debug\RestSharp.xml
+C:\Users\Versal\Desktop\BOT-master\BOT\obj\Debug\BOT.csprojResolveAssemblyReference.cache
+C:\Users\Versal\Desktop\BOT-master\BOT\obj\Debug\BOT.exe
+C:\Users\Versal\Desktop\BOT-master\BOT\obj\Debug\BOT.pdb

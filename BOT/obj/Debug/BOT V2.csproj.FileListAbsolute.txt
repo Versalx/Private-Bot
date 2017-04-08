@@ -1,0 +1,3 @@
+c:\users\versal\documents\visual studio 2017\Projects\BOT\BOT\obj\Debug\BOT V2.csprojResolveAssemblyReference.cache
+c:\users\versal\documents\visual studio 2017\Projects\BOT\BOT\obj\Debug\BOT.exe
+c:\users\versal\documents\visual studio 2017\Projects\BOT\BOT\obj\Debug\BOT.pdb
